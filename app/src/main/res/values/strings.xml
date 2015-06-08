@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xamarin</string>
+    <string name="hello_world">Welcome to the Cleveland .NET SIG!</string>
+    <string name="action_settings">Settings</string>
+    <string name="personalTitle">Welcome, {0}, to the Cleveland .NET SIG!</string>
+    <string name="websiteUrl">http://www.bennettadelson.com/events</string>
+</resources>
